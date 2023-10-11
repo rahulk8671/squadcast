@@ -10,5 +10,6 @@ Things to improve
 2. mentioned name to be in diffrent color
 3. making code more modular and move logic into custom hook
 4. write unit test for util functions
+5. if there was a submit button then on submit get details of mentioned people in the text
 
 As it's a weekday, I had limited hours available to work on this assignment. My primary focus was to address as many use cases as possible while considering Twitter behavior. If you believe any use cases were overlooked, please inform me.
