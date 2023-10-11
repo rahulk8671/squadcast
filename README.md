@@ -11,4 +11,4 @@ Things to improve
 3. making code more modular and move logic into custom hook
 4. write unit test for util functions
 
-As it's a weekday, I had limited hours available to work on this assignment. My primary focus was to address as many use cases as possible while considering Twitter behavior. If you believe any use cases were overlooked, please do not hesitate to inform me.
+As it's a weekday, I had limited hours available to work on this assignment. My primary focus was to address as many use cases as possible while considering Twitter behavior. If you believe any use cases were overlooked, please inform me.
