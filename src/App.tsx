@@ -6,7 +6,7 @@ import Container from './components/container'
 import Dropdown from './components/dropdown'
 import Input from './components/input'
 import Option from './components/option'
-import { ListOfNames } from './config'
+import ListOfNames from './data.json'
 
 function App(): JSX.Element {
 	const inputRef = useRef<HTMLInputElement>(null)
